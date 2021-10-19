@@ -3,7 +3,7 @@
   https://www.modularscale.com/?26&px&1.125
 */
 		html {
-			font-size: 1.18em; /*23px*/
+			font-size: 1.14em; /*23px*/
 			line-height: 1.125em; /* 18px*/
 			font-family:"Courier New",monospace;
 		}
@@ -12,7 +12,7 @@
 			background-color: #feb236;
 			font-family:Merriweather, Arial  ,serif;
 			text-align:center;
-			font-size: 1.26em
+			font-size: 1.20em
 		}
 		
 		h1 {
@@ -28,5 +28,6 @@
 		
 		p {
 			padding-top:1.5%;
-			
+			line-height:2em;
 		}
+		
