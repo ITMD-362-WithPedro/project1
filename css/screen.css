@@ -12,7 +12,8 @@
 			background-color: #feb236;
 			font-family:Merriweather, Arial  ,serif;
 			text-align:center;
-			font-size: 1.46em
+			font-size: 1.46em;
+			margin: 0 auto;
 		}
 		
 		h1 {
@@ -71,13 +72,48 @@
 		footer {
 				margin:2%;
 		}
+		
+	/* Tablet size */		
+		@media screen and (min-width: 640px) {	
 			
+		body {
+			 background-color:#FDCE2A;
+			 font-size:1.05em;
+		}
+		
+		h1 {
+			background-color:#B9BBB6;
+		}
+		
+		#fn {
+			height:30px;
+			width:240px;
+		}
+		
+		#ln {
+			height:30px;
+			width:240px;
+		}
+		#em {
+			height:30px;
+			width:240px;
+		}
 			
-			
-			
-			
-			
-			
+		#phone {
+				height:30px;
+				width:240px;
+		}
+		#age-verification {
+						 margin: 2%;
+						 width:27px;
+						 height:27px;
+		}
+		
+		}
+		
+	/* Desktop size */
+		@media screen and (min-width: 996px) 
+		
 			
 			
 			
