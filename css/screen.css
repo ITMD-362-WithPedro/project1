@@ -112,9 +112,17 @@
 		}
 		
 	/* Desktop size */
-		@media screen and (min-width: 996px) 
+		@media screen and (min-width: 996px) {
 		
-			
-			
+		body {
+			background-color:#FCE205;
+		}
+		
+		h1{
+			background-color:#999DA0;
+		}
+		
+		
+		}	
 			
 			
