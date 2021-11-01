@@ -2,26 +2,26 @@
   Major Second Modular Scale:
   https://www.modularscale.com/?26&px&1.125
 */
-		html {
+	html {
 			font-size: 1.25em; /*20px*/
 			line-height: 1.125em; /* 18px*/
-			font-family:"Courier New",monospace;
-		}
+			font-family:"Courier New",monospace; 
+		 }
 		
-		body {
+	body {
 			background-color: #feb236;
 			font-family:Merriweather, Arial  ,serif;
 			text-align:center;
 			font-size: 1.46em;
 			margin: 0 auto;
-		}
+		 }
 		
-		h1 {
+	h1 {
 			padding:2.8%;
 			background-color:#DCDCDC;
 			font-weight:bold;
 			font-size: 1.4em;	
-		}
+	   }
 		
 		h3 {
 			padding-top:1%;
