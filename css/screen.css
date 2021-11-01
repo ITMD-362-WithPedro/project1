@@ -31,45 +31,41 @@
 			line-height:2em;
 	  }
 		
-		#name {
-			margin: 2%;
-		}
+	#name {	margin: 2%; }
 		
-		#fn {
+	#fn {
 			height:20px;
 			width:280px;
 		}
 		
-		#ln {
+	#ln {
 			height:20px;
 			width:280px;
 			margin-top:2%;
 		}
 		
-		#te {
+	#te {
 			margin-top: 2%;
 			padding-right:2%;
 		}
 			
-		#em {
+	#em {
 			height:20px;
 			width:280px;
 		}
 			
-		#phone {
-				height:20px;
-				width:280px;
-		}
+	#phone {
+			height:20px;
+			width:280px;
+		   }
 			
-		#age-verification {
-						 margin: 2%;
-						 width:30px;
-						 height:30px;
-		}
+	#age-verification {
+			margin: 2%;
+			width:30px;
+			height:30px;
+					  }
 		
-		footer {
-				margin:2%;
-		}
+	footer {margin:2%;}
 		
 	/* Tablet size */		
 		@media screen and (min-width: 640px) {	
