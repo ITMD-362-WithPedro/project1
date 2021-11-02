@@ -31,16 +31,18 @@
 			line-height:2em;
 	  }
 		
-	#name {	margin: 2%; }
+	#name {	margin: 2%; 
+			line-height:1.2em;
+		  }
 		
 	#fn {
-			height:20px;
-			width:280px;
+			height:22px;
+			width:90%;
 		}
 		
 	#ln {
-			height:20px;
-			width:280px;
+			height:22px;
+			width:90%;
 			margin-top:2%;
 		}
 		
@@ -50,13 +52,14 @@
 		}
 			
 	#em {
-			height:20px;
-			width:280px;
+			height:22px;
+			width:87%;
 		}
 			
 	#phone {
-			height:20px;
-			width:280px;
+			height:22px;
+			width:88%;
+			margin-left:1%;
 		   }
 			
 	#age-verification {
@@ -77,22 +80,15 @@
 		
 		h1 { background-color:#B9BBB6; }
 		
-		#name {
-			 line-height:4px;
-			 margin-right:8%;
-			  }
-		
 		#fn {
 			 height:30px;
 			 width:240px;
 			}
-		
+			
 		#ln {
 			 height:30px;
 			 width:240px;
 			}
-			
-		#ll {margin-left:2%;}	
 			
 		#em {
 			 height:30px;
@@ -126,6 +122,7 @@
 		h1{
 			background-color:#999DA0;
 		}
+		#name{	margin-right:8%; }
 		
 		#ll {	margin-left:1%;	}
 		
@@ -136,9 +133,9 @@
 		#phone {margin-left:0.3%;}
 		
 		#age-verification {
-						 width:20px;
-						 height:20px;
-		}
+				width:20px;
+				height:20px;
+						  }
 		
 		}		
 				
