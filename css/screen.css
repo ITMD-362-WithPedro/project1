@@ -2,140 +2,102 @@
   Major Second Modular Scale:
   https://www.modularscale.com/?26&px&1.125
 */
-	html {
-			font-size: 1.25em; /*20px*/
+	html {		font-size: 1.25em; /*20px*/
 			line-height: 1.125em; /* 18px*/
-			font-family:"Courier New",monospace; 
-		 }
+			font-family:"Courier New",monospace; }
 		
-	body {
-			background-color: #feb236;
+	body {		background-color: #feb236;
 			font-family:Merriweather, Arial  ,serif;
 			text-align:center;
 			font-size: 1.46em;
-			margin: 0 auto;
-		 }
+			margin: 0 auto; }
 		
-	h1 {
-			padding:2.8%;
+	h1 {		padding:2.8%;
 			background-color:#DCDCDC;
 			font-weight:bold;
-			font-size: 1.4em;	
-	   }
+			font-size: 1.4em; }
 		
-	h3 {	padding-top:1%;   }
+	h3 {		padding-top:1%; }
 		
-	p {
-			padding-top:1.5%;
+	p {		padding-top:1.5%;
 			font-size:20px;
-			line-height:2em;
-	  }
+			line-height:2em; }
 		
-	#name {	margin: 2%; 
-			line-height:1.2em;
-		  }
+	#name {		margin: 2%; 
+			line-height:1.2em; }
 		
-	#fn {
-			height:22px;
+	#fn {		height:22px;
+			width:90%; }
+		
+	#ln {		height:22px;
 			width:90%;
-		}
+			margin-top:2%; }
 		
-	#ln {
-			height:22px;
-			width:90%;
-			margin-top:2%;
-		}
-		
-	#te {
-			margin-top: 2%;
-			padding-right:2%;
-		}
+	#te {		margin-top: 2%;
+			padding-right:2%; }
 			
-	#em {
-			height:22px;
-			width:87%;
-		}
+	#em {		height:22px;
+			width:87%; }
 			
-	#phone {
-			height:22px;
+	#phone {	height:22px;
 			width:88%;
-			margin-left:1%;
-		   }
+			margin-left:1%; }
 			
-	#age-verification {
-			margin: 2%;
-			width:30px;
-			height:30px;
-					  }
+	#age-verification {	margin: 2%;
+				width:30px;
+				height:30px; }
 		
-	footer {margin:2%;}
+	footer {	margin:2%; }
 		
  /* Tablet size */		
 	@media screen and (min-width: 640px) {	
 			
-		body {
-			 background-color:#FDCE2A;
-			 font-size:1.05em;
-			 }
+	body {		background-color:#FDCE2A;
+			font-size:1.05em; }
 		
-		h1 { background-color:#B9BBB6; }
+	h1 {		background-color:#B9BBB6; }
 		
-		#fn {
-			 height:30px;
-			 width:240px;
-			}
+	#fn {		height:30px;
+			width:240px; }
 			
-		#ln {
-			 height:30px;
-			 width:240px;
-			}
+	#ln {		height:30px;
+			width:240px; }
 			
-		#em {
-			 height:30px;
-			 width:240px;
-			 margin-left:0.9%;
-			}
+	#em {		height:30px;
+			width:240px;
+			margin-left:0.9%; }
 			
-		#phone {
-			 height:30px;
-			 width:240px;
-			 margin-left:0.3%;
-			   }
+	#phone {	height:30px;
+			width:240px;
+			margin-left:0.3%; }
 			   
-		#ph {margin-left:2.2%;}	   
+	#ph {		margin-left:2.2%; }	   
 		
-		#age-verification {
-			 margin: 2%;
-			 width:27px;
-			 height:27px;
-						  }
+	#age-verification {	margin: 2%;
+			 	width:27px;
+			 	height:27px; }
 		
 		}
 		
-	/* Desktop size */
-		@media screen and (min-width: 996px) {
+/* Desktop size */
+	@media screen and (min-width: 996px) {
 		
-		body {
-			background-color:#FCE205;
-		}
+	body {		background-color:#FCE205; }
 		
-		h1{
-			background-color:#999DA0;
-		}
-		#name{	margin-right:8%; }
+	h1 {		background-color:#999DA0; }
 		
-		#ll {	margin-left:1%;	}
+	#name {		margin-right:8%; }
 		
-		#ph {	margin-left:2.2%;	}
+	#ll {		margin-left:1%;	}
 		
-		#em {	margin-left:0.9%;	}
+	#ph {		margin-left:2.2%; }
 		
-		#phone {margin-left:0.3%;}
+	#em {		margin-left:0.9%; }
 		
-		#age-verification {
-				width:20px;
-				height:20px;
-						  }
+	#phone {	margin-left:0.3%; }
+		
+	#age-verification {	width:20px;
+				height:20px; }
 		
 		}		
 				
