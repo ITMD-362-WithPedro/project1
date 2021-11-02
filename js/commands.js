@@ -9,7 +9,13 @@
 		else if ( f === "") {
 			alert("Enter Name Please");
 		}
+		if (isNaN(l)) {
+			alert("No numbers in here");
+		}
+		else if ( l === "") {
+			alert("Enter Name Please");
+		}
 	});
-		
+	
 	});
 		
